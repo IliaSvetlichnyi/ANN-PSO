@@ -1,4 +1,4 @@
-## ANN-PSO Integration Project for Dataset Optimization
+## ANN-PSO - Biologically Inspired Algorithms in deep learning
 
 ### Introduction
 This project explores the deep learning fundamentals by constructing an Artificial Neural Network (ANN) and Particle Swarm Optimization (PSO) from scratch. The primary aim is to optimize an ANN for a specific dataset using a PSO algorithm with informants, examining the effects of different hyperparameters on the ANN's performance.
